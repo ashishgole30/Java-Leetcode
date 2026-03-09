@@ -30,10 +30,13 @@ public class Concatenation_of_Array {
          */
 
         /*
+         * Concepts Used:
          * Data Structure Used:Array
          * Concept Used:Array traversal,Index manipulation.
-         * 
-         * Initial thought process
+         */
+
+        /*
+         * Initial thought process:
          * Steps:
          * 1.I will Create array called nums of integer data type with size n,I will
          * create of size 3 , with elemets 10,11,12
@@ -44,7 +47,7 @@ public class Concatenation_of_Array {
          */
 
         /*
-         * Final thought process
+         * Final thought process:
          * 1. In LeetCode, you do NOT create the input array yourself. The platform
          * already gives you the array.
          * 2. The input array nums is already given.
@@ -59,7 +62,7 @@ public class Concatenation_of_Array {
          */
 
         /*
-         * NOTES -->
+         * Notes -->
          * In VS Code, you wrote a full program:
          * class
          * main() method
@@ -87,7 +90,7 @@ public class Concatenation_of_Array {
          * → runs code on hidden test cases.
          */
 
-        // VS CODE:CODE -->
+        // VS CODE Code:
         int[] nums = { 1, 2, 3 };
         // created integer data type array called nums with 3 elements 1,2,3
         // index o = 1
@@ -119,7 +122,7 @@ public class Concatenation_of_Array {
     }
 }
 
-// LEETCODE:CODE -->
+// Leetcode Code:
 /*
  * class Solution { public int[] getConcatenation(int[] nums) {
  * int n = nums.length;
